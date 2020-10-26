@@ -1,0 +1,6 @@
+d:\users\nicholas\documents\visual studio 2013\Projects\PayrollSystem\PayrollSystem\bin\PayrollSystem.dll.config
+d:\users\nicholas\documents\visual studio 2013\Projects\PayrollSystem\PayrollSystem\bin\PayrollSystem.dll
+d:\users\nicholas\documents\visual studio 2013\Projects\PayrollSystem\PayrollSystem\bin\PayrollSystem.pdb
+d:\users\nicholas\documents\visual studio 2013\Projects\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csprojResolveAssemblyReference.cache
+d:\users\nicholas\documents\visual studio 2013\Projects\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.dll
+d:\users\nicholas\documents\visual studio 2013\Projects\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.pdb
